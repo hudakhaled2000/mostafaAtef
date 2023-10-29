@@ -1,0 +1,330 @@
+body {
+    margin: 0;
+}
+
+.welcome-to {
+    background-image: url(images/drew-coffman-1872.jpg);
+    text-align: center;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.bg {
+    width: 100%;
+    height: 800px;
+    background-color: #0000004f;
+}
+
+nav {
+    display: inline-block;
+    width: 100%;
+}
+
+.icon {
+    display: inline-block;
+    width: 41%;
+
+    vertical-align: middle;
+    text-align: left;
+
+    padding-top: 20px;
+    padding-left: 15px;
+
+
+    .n-img {
+        width: 32%;
+    }
+}
+
+.links {
+    display: inline-block;
+    width: 49%;
+    text-align: right;
+    vertical-align: middle;
+    color: white;
+    padding-top: 25px;
+    padding-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-size: 17;
+    font-family: 'Alegreya', serif;
+}
+
+p {
+    font-size: 20;
+    font-family: 'Alegreya Sans', sans-serif;
+
+
+}
+
+h1 {
+    font-size: 50;
+    font-family: 'Alegreya', serif;
+}
+
+h2 {
+    font-family: 'Alegreya', serif;
+}
+
+.prop {
+    padding-top: 15%;
+    color: white;
+}
+
+
+button {
+    width: 120px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.bu1 {
+    background-color: #8E6E4E;
+    border-style: none;
+    cursor: pointer;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.bu2 {
+    background-color: transparent;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.who-we-are {
+
+    margin: 50px 0 0 20px;
+
+    background-color: white;
+}
+
+.container {
+    width: 43%;
+    display: inline-block;
+    vertical-align: top;
+
+    padding-left: 35px;
+    padding-top: 80px;
+}
+
+.con-it {
+    display: inline-block;
+
+
+}
+
+.con-img {
+    display: inline-block;
+}
+
+.con-tx {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 7px;
+}
+
+.image {
+    width: 43%;
+    display: inline-block;
+
+    padding-right: 35px;
+
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+img {
+    width: 100%;
+}
+
+.p1 {
+    font-size: 20;
+
+    letter-spacing: 1px;
+
+}
+
+.p2 {
+    font-size: 17;
+
+    line-height: 20px;
+}
+
+
+
+.our-location {
+    background-color: #F8F8F8;
+    width: 100%;
+    padding-top: 40px;
+    margin-top: 50px;
+}
+
+.container-2 {
+    display: inline-block;
+    width: 43%;
+    vertical-align: top;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+
+.image-2 {
+    display: inline-block;
+    width: 43%;
+    padding: 40px;
+
+
+}
+
+#image-Location {
+    width: 95%;
+}
+
+.our-baking {
+    text-align: center;
+
+    padding: 50px 0;
+}
+
+.baking-items {
+    width: 90%;
+    margin: auto;
+
+}
+
+.item-1,
+.item-2,
+.item-3 {
+    float: left;
+    width: 29%;
+    padding: 20px;
+
+}
+
+.clr {
+    clear: both;
+}
+
+.cont-info {
+    background-color: #F8F8F8;
+    width: 100%;
+}
+
+.min-con {
+    width: 90%;
+    margin: auto;
+    padding-top: 50px;
+
+}
+
+.container-3 {
+    float: left;
+    width: 42%;
+
+    padding-top: 50px;
+}
+
+
+
+.cont-img {
+    float: left;
+
+    padding-right: 12px;
+    padding-top: 10px;
+
+
+}
+
+.cont-text {
+    padding-top: 1px;
+
+}
+
+iframe {
+    width: 45%;
+
+    float: right;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.footer {
+    width: 100%;
+    background-color: #403D38;
+
+}
+
+.fo-it {
+    width: 92%;
+    margin: auto;
+    padding: 50px 0 50px 15px;
+
+
+}
+
+.fo-it1,
+.fo-it2,
+.fo-it3,
+.fo-it4 {
+    width: 22%;
+    float: left;
+    padding-right: 30px;
+
+}
+
+.fo-it1 p,
+.fo-it2 p,
+.fo-it3 p,
+.fo-it4 p {
+    font-size: 16px;
+    color: #91958A;
+    line-height: 30px;
+
+}
+
+.fo-it1 h4,
+.fo-it2 h4,
+.fo-it3 h4,
+.fo-it4 h4 {
+    color: white;
+}
+
+.end {
+    background-color: #353330;
+    text-align: center;
+    width: 100%
+}
+
+.end-w {
+    width: 25%;
+    margin: auto;
+    padding: 50px 0;
+}
+
+.co-r {
+    padding: 10px 0;
+}
+
+.co-r p {
+    font-size: 14px;
+    color: #91958A;
+}
+
+.li-img img {
+    width: 60%;
+}
